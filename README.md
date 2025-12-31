@@ -108,7 +108,16 @@ bank-loan-analysis/
 ├── notebooks/
 │   └── Bank Loan,ipynb
 ├── images/
-│   └── supermarketsales-1.png
+│   └── Total Funded Amount by Month.png
+│   └── Total Received Amount by Month.png
+│   └── Total Loan Applications by Month.png
+│   └── Total Funded Amount by State.png
+│   └── Total Funded Amount by Term.png
+│   └── Total Funded Amount by Employment Length.png
+│   └── Total Funded Amount by Loan Purpose.png
+│   └── Total Funded Amount by Home Ownership (MORTGAGE).png
+│   └── Total Funded Amount by Home Ownership (RENT).png
+│   └── Total Funded Amount by Home Ownership (OWN).png
 ├── requirements.txt
 └── README.md
 </pre>
