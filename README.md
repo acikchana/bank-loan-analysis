@@ -106,7 +106,7 @@ bank-loan-analysis/
 ├── data/
 │   └── financial_loan.xlsx
 ├── notebooks/
-│   └── Bank Loan,ipynb
+│   └── Bank Loan.ipynb
 ├── images/
 │   └── Total Funded Amount by Month.png
 │   └── Total Received Amount by Month.png
